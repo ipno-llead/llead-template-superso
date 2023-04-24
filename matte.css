@@ -2,7 +2,7 @@
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/main.scss ***!
   \*********************************************************************************************************************************************************/
 .theme-light {
-     --bg: #000;
+     --bg: #231F20;
     --navbar-bg: rgba(0, 0, 0, 0.7);
     --cta-bg: #fff;
     --cta-hover-bg: #e8e8e8;
@@ -20,7 +20,7 @@
     --code-inline-color: #6366f1;
 }
 .theme-dark {
-    --bg: #000;
+    --bg: #231F20;
     --navbar-bg: rgba(0, 0, 0, 0.7);
     --cta-bg: #fff;
     --cta-hover-bg: #e8e8e8;
