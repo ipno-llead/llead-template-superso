@@ -2,21 +2,21 @@
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/main.scss ***!
   \*********************************************************************************************************************************************************/
 .theme-light {
-    --bg: #fff;
-    --navbar-bg: hsla(0, 0%, 100%, 0.7);
-    --cta-bg: #000;
-    --cta-hover-bg: #2e2e2e;
-    --accent-bg: #ededef;
-    --pill-bg: rgba(0, 0, 0, 0.06);
-    --border: #d5d5d5;
-    --cta-color: #fff;
-    --navbar-color: #303030;
-    --text-color: rgba(30, 28, 28, 0.7);
-    --heading-color: #000;
+     --bg: #000;
+    --navbar-bg: rgba(0, 0, 0, 0.7);
+    --cta-bg: #fff;
+    --cta-hover-bg: #e8e8e8;
+    --accent-bg: #1d1d1d;
+    --pill-bg: hsla(0, 0%, 100%, 0.1);
+    --border: #242424;
+    --cta-color: #000;
+    --navbar-color: #cbc9c9;
+    --text-color: hsla(0, 0%, 100%, 0.7);
+    --heading-color: #fff;
     --gallery-heading-color: #fff;
     --code-block-bg: rgba(131, 105, 211, 0.08);
-    --code-inline-bg: #e0e7ff;
-    --code-inline-border: #a5b4fc;
+    --code-inline-bg: #0b090f;
+    --code-inline-border: #493d65;
     --code-inline-color: #6366f1;
 }
 .theme-dark {
